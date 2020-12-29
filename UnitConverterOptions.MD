@@ -233,3 +233,6 @@ Supported Units
 ### Acceleration
 * g (g-force)
 * m/s2
+
+
+Libary used: https://www.npmjs.com/package/convert-units
